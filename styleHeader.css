@@ -1,0 +1,8 @@
+#home, #cadastro, #agenda, #ficha, #estoque, #relatorio, #adm{
+	color:black;
+
+}
+#home:hover, #cadastro:hover, #agenda:hover, #ficha:hover, #estoque:hover, #relatorio:hover, #adm:hover{
+	color:blue;
+	text-decoration:none;
+}

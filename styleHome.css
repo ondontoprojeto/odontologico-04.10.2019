@@ -1,0 +1,86 @@
+
+
+.consolidado{
+	margin: 0 auto;
+}
+#real, #agen, #conf, #canc{
+	width:180px;
+    display:block;
+}
+#real, #agen, #conf, #canc h6{
+	text-align:center;
+}
+.estudos{
+	font-size: 10px;
+	font-style:bold;
+}
+	/* Tabela Próximos Pacientes */
+
+#tableProxi {
+    width: 100%;
+    display:block;
+    border:1px solid black;
+}
+#theadProxi2, #theadProxi {
+    display: inline-block;
+    width: 100%;
+}
+#theadProxi2 th{
+	width:350px;
+}
+#tbodyProxi {
+    height: 150px;
+    display: inline-block;
+    width: 100%;
+    overflow: auto;
+}
+  
+#tbodyProxi td{
+	width:1000px;
+}
+
+
+	/* Tabela Aniversariantes do mês */
+#theadAni{
+    display: inline-block;
+    width: 100%;
+}
+#theadAni th{
+	width: 1800px;
+}
+#tbodyAni {
+    height: 240px;
+    display: inline-block;
+    width: 100%;
+    overflow: auto;
+}
+  
+#tbodyAni td{
+	width:1000px;
+}
+
+	/*Tabela Procedimentos Realizados*/
+#theadProce2{
+	display:inline-block;
+}
+#theadProce2 th{
+	width: 1500px;
+}
+#theadProce{
+    display: inline-block;
+    width: 100%;
+}
+#theadProce th{
+	width: 1500px;
+}
+#tbodyProce {
+    height: 200px;
+    display: inline-block;
+    width: 100%;
+    overflow: auto;
+}
+  
+#tbodyProce td{
+	width:1000px;
+}
+

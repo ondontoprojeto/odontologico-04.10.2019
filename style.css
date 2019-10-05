@@ -1,0 +1,46 @@
+
+body{
+	background-color:#cccccc;
+}
+#cabecalho{
+	background-color: #006bb3
+}
+#divUsuario{
+	margin-left:50px;
+}
+#divSenha{
+	padding-bottom:10px;
+	margin-left:50px;
+}
+
+#labelUsuario, #labelSenha{
+	color:#ffffff;
+	margin-left: 50px;
+}
+
+#areaDeLogin{
+    display:block;
+	border-radius:40px;
+	width:400px;
+	height:400px;
+	margin: 0 auto;
+    margin-top:120px;
+	background-color:rgba(30,144,255,0.9);
+}
+
+#buttonEsqueciSenha{
+	margin-left:50px;
+	border-radius:10px;
+}
+#buttonEntrar{
+	display:inline;
+	margin-left:55px;
+	border-radius:10px;
+}
+legend{
+	padding-top:20px;
+	font-style:italic;
+	text-align: center;
+	font-size:50px;
+	color:#ffffff;
+}
